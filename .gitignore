@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# GCP authentication
+/terraform/auth
+
+# Terraform
+/terraform/.terraform
